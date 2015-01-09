@@ -21,7 +21,7 @@ Forever Tableau dashboard developers have wanted to show how things change over 
 # Setup
 1. Make sure you viz will look good when the parameter value is changed. (I’m saying parameter but it could also be just a field in your data set that is being used in your viz).
 2. Publish your viz to Tableau Server or Tableau Public. It goes without saying anything on Tableau Public is viewable by anyone so be careful if you’re publishing sensitive data.
-3. Copy animate.html from here [animate.html](https://github.com/ps-data/tableau-animation/blob/gh-pages/animate.html) to your web server
+3. Copy animate.html from here [(animate.html)](href="https://github.com/ps-data/tableau-animation/blob/gh-pages/animate.html) to your web server
 4. Inside animate.html add your URLs to the locations array starting at line 25  (examples included in html)
 5. Publish your animate.html to a web server of your choice. You may also fork this repository and use github’s pages as a free hosting of sorts.
 6. Browse to your new animated map, tweak any settings that might not be right like the time spent on each viz (setInterval parameter in animate.html)
