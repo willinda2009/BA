@@ -1,6 +1,13 @@
 # Tableau Animation
 Animates Tableau Views on the web
 
+# Examples
+<ul>
+<li>http://ps-data.github.io/tableau-animation/map.html</li>
+</ul>
+
+# Implementation
+
 In this post I will show you how to animate your Tableau dashboards on the web. This will require basic understanding of Tableau and some basic HTML and Javascript knowledge will help.
 
 # Background
