@@ -1,3 +1,6 @@
+# Tableau Animation
+Animates Tableau Dashboards on the web using Tableau Server and some basic Javascript (JQuery)
+
 # Examples
 
 <a target="_blank" href="http://ps-data.github.io/tableau-animation/map.html">http://ps-data.github.io/tableau-animation/map.html</a>
