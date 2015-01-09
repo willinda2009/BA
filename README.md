@@ -2,9 +2,8 @@
 Animates Tableau Views on the web
 
 # Examples
-<ul>
-<li>http://ps-data.github.io/tableau-animation/map.html</li>
-</ul>
+
+<a target="_blank" href="http://ps-data.github.io/tableau-animation/map.html">http://ps-data.github.io/tableau-animation/map.html</a>
 
 # Implementation
 
