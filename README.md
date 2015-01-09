@@ -7,9 +7,11 @@ In this post I will show you how to animate your Tableau dashboards on the web. 
 Forever Tableau dashboard developers have wanted to show how things change over time in their views. In Tableau desktop this is possible using the Pages shelf and clicking the ‘play’ button. The problem however, is that this functionality does not work on Tableau Server nor Tableau Public...until now :)
 
 # Prerequisites
-Tableau workbook that can be modified by changing a filter or parameter value
-Tableau Server or account on Tableau Public
-Web Server to host animated viz (optional)
+<ol>
+<li>Tableau workbook that can be modified by changing a filter or parameter value</li>
+<li>Tableau Server or account on Tableau Public</li>
+<li>Web Server to host animated viz (optional)</li>
+</ol>
 
 # Setup
 Make sure you viz will look good when the parameter value is changed. (I’m saying parameter but it could also be just a field in your data set that is being used in your viz).
