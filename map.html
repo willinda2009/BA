@@ -19,7 +19,7 @@
     $(document).ready(function(){
       
       var height = $( window ).height();
-      var width = $( window ).width();
+      var width = $( window ).width();      
       var size = width + ',' + height;
       
       var locations = [        
@@ -31,8 +31,8 @@
 
                 ]
             
-      $("#myGallery").attr('width',width);
-      $("#myGallery").attr('height',height);
+      $("#myGallery").attr('width','100%');
+      $("#myGallery").attr('height',$( document ).height());
       
       var img = '';
       
