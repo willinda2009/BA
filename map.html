@@ -18,8 +18,8 @@
 
     $(document).ready(function(){
       
-      var height = $( window ).height();
-      var width = $( window ).width();      
+      var height = $( document ).height();
+      var width = $( document ).width();      
       var size = width + ',' + height;
       
       var locations = [        
@@ -31,8 +31,8 @@
 
                 ]
             
-      $("#myGallery").attr('width','100%');
-      $("#myGallery").attr('height',$( document ).height());
+      $("#myGallery").attr('width',width);
+      $("#myGallery").attr('height',height);
       
       var img = '';
       
