@@ -6,6 +6,8 @@ Animates Tableau Dashboards on the web using Tableau Server and some basic Javas
 * <a target="_blank" href="http://ps-data.github.io/tableau-animation/map.html">http://ps-data.github.io/tableau-animation/map.html</a>
 * <a target="_blank" href="http://ps-data.github.io/tableau-animation/internet-usage.html">http://ps-data.github.io/tableau-animation/internet-usage.html</a>
 * <a target="_blank" href="http://ps-data.github.io/tableau-animation/housing-prices.html">http://ps-data.github.io/tableau-animation/housing-prices.html</a>
+* <a target="_blank" href="http://ps-data.github.io/tableau-animation/magic-quadrant.html">http://ps-data.github.io/tableau-animation/magic-quadrant.html</a>
+
 
 # Implementation
 
